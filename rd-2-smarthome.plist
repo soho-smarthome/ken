@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://sohord10.h3c.com/appversionios/SmartHomeEP-V1.0.1-test.ipa</string>
+					<string>http://sohord7.h3c.com/appversionios/ZK_ST-V1.0-Beta.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://sohord10.h3c.com/appversionios/smarthome.png</string>
+					<string>http://sohord7.h3c.com/appversionios/smarthome.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.h3c.SmartHomeEP</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>SmartHomeEP</string>
+				<string>ZK_ST</string>
 			</dict>
 		</dict>
 	</array>
